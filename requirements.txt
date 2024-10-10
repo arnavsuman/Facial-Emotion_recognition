@@ -1,1 +1,3 @@
 download shape_predictor_68_face_landmarks.dat file from internet.
+
+pip3 install opencv-python opencv-contrib-python dlib numpy matplotlib fer Pillow
